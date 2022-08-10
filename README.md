@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoshOlorunseun
 - 👀 I’m interested in bringing dreams to life 
 - 🌱 I’m currently upskilling
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on solving business problems through analysis
 - 📫 You can reach me on jolorunseun@gmail.com
 
 <!---
