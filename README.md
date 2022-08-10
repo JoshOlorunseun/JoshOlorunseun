@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JoshOlorunseun
-- 👀 I’m interested in everything data 
-- 🌱 I’m currently learning to be better in the data world
+- 👀 I’m interested in bringing dreams to life 
+- 🌱 I’m currently upskilling
 - 💞️ I’m looking to collaborate on 
-- 📫 You can reach me on linkedin.com/in/jolorunseun
+- 📫 You can reach me on jolorunseun@gmail.com
 
 <!---
 JoshOlorunseun/JoshOlorunseun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
